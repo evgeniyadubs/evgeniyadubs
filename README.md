@@ -1,16 +1,15 @@
-### Hi there 👋
+### Всем привет! Меня зовут Евгения 👋
 
-<!--
-**evgeniyadubs/evgeniyadubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне
 
-Here are some ideas to get you started:
+Я работаю с сайтами с 2012г., в 2023г. я окончила курсы аналитики данных. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Моя профессиональная цель: сделать продукт лучше, понятнее, удобнее. 
+
+### Навыки
+
+Python, MySQL, HTML5, CSS3, Яндекс.Метрика, Google Analytics 
+
+### Связаться со мной: 
+
+e-mail: evgeniya.dubs@gmail.com
