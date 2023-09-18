@@ -8,7 +8,7 @@
 
 ### Навыки
 
-Python, MySQL, HTML5, CSS3, Яндекс.Метрика, Google Analytics 
+Python, SQL, HTML5, CSS3, Яндекс.Метрика, Google Analytics 
 
 ### Связаться со мной 
 
